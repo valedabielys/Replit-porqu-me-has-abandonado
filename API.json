@@ -1,0 +1,44 @@
+[
+    {
+        "nombre": "Pushinka",
+        "sexo": "Hembra",
+        "edad": "4 años",
+        "esterilizada/castrado": "Sí",
+        "foto": ""
+    }, 
+    {
+        "nombre": "Mufasa",
+        "sexo": "Macho",
+        "edad": "3 años",
+        "esterilizada/castrado": "Sí",
+        "foto": ""
+    },
+    {
+        "nombre": "Komugi",
+        "sexo": "Hembra",
+        "edad": "2 años",
+        "esterilizada/castrado": "Sí",
+        "foto": ""
+    },
+    {
+        "nombre": "Cossete",
+        "sexo": "Hembra",
+        "edad": "2 años",
+        "esterilizada/castrado": "Sí",
+        "foto": ""
+    },
+    {
+        "nombre": "Priscila",
+        "sexo": "Hembra",
+        "edad": "2 años",
+        "esterilizada/castrado": "Sí",
+        "foto": ""
+    },
+    {
+        "nombre": "Casimero",
+        "sexo": "Macho",
+        "edad": "2 años",
+        "esterilizada/castrado": "Sí",
+        "foto": ""
+    }
+]
