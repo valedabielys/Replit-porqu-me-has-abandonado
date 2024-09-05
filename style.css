@@ -2,5 +2,9 @@ body {
     margin: 0;
     padding: 0;
     border: 0;
+    background-image: url(https://www.canva.com/design?create&type=TABQqvMf5YM&template=EAFhwfMq3ds&category=tACZCp5JRWg&analyticsCorrelationId=a0b67a78-70ac-4c1b-9ca0-4c9f3195ed1c);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
