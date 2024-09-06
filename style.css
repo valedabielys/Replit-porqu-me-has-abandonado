@@ -2,5 +2,12 @@ body {
     margin: 0;
     padding: 0;
     border: 0;
+<<<<<<< HEAD
+=======
+    background-image: url(https://www.canva.com/design?create&type=TABQqvMf5YM&template=EAFhwfMq3ds&category=tACZCp5JRWg&analyticsCorrelationId=a0b67a78-70ac-4c1b-9ca0-4c9f3195ed1c);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+>>>>>>> 8f6ec36f91ba58f48dbd96ad6031dee06e10b40d
 }
 

@@ -40,5 +40,89 @@
         "edad": "2 años",
         "esterilizada/castrado": "Sí",
         "foto": ""
+    },
+    {
+        "nombre": "Mitones",
+        "sexo": "Macho",
+        "edad": "4 años",
+        "esterilizada/castrado": "Sí",
+        "foto": ""
+    },
+    {
+        "nombre": "Azrael",
+        "sexo": "Macho",
+        "edad": "2 años",
+        "esterilizada/castrado": "No",
+        "foto": ""
+    },
+    {
+        "nombre": "Nana",
+        "sexo": "Hembra",
+        "edad": "5 meses",
+        "esterilizada/castrado": "No",
+        "foto": ""
+    },
+    {
+        "nombre": "Rayitas",
+        "sexo": "Macho",
+        "edad": "3 años",
+        "esterilizada/castrado": "Sí",
+        "foto": ""
+    },
+    {
+        "nombre": "Sabrina",
+        "sexo": "Hembra",
+        "edad": "3 años",
+        "esterilizada/castrado": "Sí",
+        "foto": ""
+    },
+    {
+        "nombre": "Batcat",
+        "sexo": "Macho",
+        "edad": "7 años",
+        "esterilizada/castrado": "No",
+        "foto": ""
+    },
+    {
+        "nombre": "Noa",
+        "sexo": "Hembra",
+        "edad": "7 años",
+        "esterilizada/castrado": "No",
+        "foto": ""
+    },
+    {
+        "nombre": "Botitas",
+        "sexo": "Macho",
+        "edad": "5 años",
+        "esterilizada/castrado": "No",
+        "foto": ""
+    },
+    {
+        "nombre": "Chamusqui",
+        "sexo": "Macho",
+        "edad": "5 años",
+        "esterilizada/castrado": "Ní",
+        "foto": ""
+    },
+    {
+        "nombre": "Tomas",
+        "sexo": "Macho",
+        "edad": "1 años",
+        "esterilizada/castrado": "Sí",
+        "foto": ""
+    },
+    {
+        "nombre": "Felix",
+        "sexo": "Macho",
+        "edad": "2 años",
+        "esterilizada/castrado": "Sí",
+        "foto": ""
+    },
+    {
+        "nombre": "Bombita",
+        "sexo": "Macho",
+        "edad": "6 años",
+        "esterilizada/castrado": "Sí",
+        "foto": ""
     }
 ]
